@@ -1,0 +1,21 @@
+# Latex temporary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Latex output files
+*.dvi
+*.pdf
+*.ps
+*.out
+
+# vs code
+.vscode
+.DS_Store
