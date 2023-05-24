@@ -1,4 +1,4 @@
-# LaTex_Template_VSC
+# LaTex_Template
 This is a Latex Template (for use with VS Code with Latex Workshop by James Yu).
 
 ## Changelog
