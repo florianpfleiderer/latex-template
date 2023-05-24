@@ -5,4 +5,4 @@ This is a Latex Template (for use with VS Code with Latex Workshop by James Yu).
 currently works with v9.10
 
 ## Credits
-Originally created by Matthias Pospiech (matthias@pospiech.eu) adapted by me to suit newest Latex Versions.
+Based on a Template created by <a href="https://github.com/pospiech">Matthias Pospiech</a>.
